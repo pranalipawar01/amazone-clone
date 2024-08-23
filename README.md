@@ -1,1 +1,1 @@
-# amazone-clone
+# amazone-clone (Frontend project)
